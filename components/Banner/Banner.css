@@ -1,0 +1,28 @@
+.banner-container {
+  background-color: #ffffff;
+  max-width: 130rem;
+  margin: 0 auto
+}
+
+.proposal-container {
+  background-color: red;
+  display: flex;
+}
+
+.proposal-item {
+  height: 40rem;
+  flex-grow: 1;
+}
+
+.left-side {
+  background-color: green;
+}
+
+.right-side {
+  background-color: purple;
+}
+
+.business-description {
+  height: 25rem;
+  background-color: yellow;
+}

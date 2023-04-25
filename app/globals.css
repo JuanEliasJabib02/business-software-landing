@@ -1,3 +1,14 @@
+:root {
+  --main-color-one: #AD1AC7;
+  --main-color-dark: #480095;
+  --secondary-color: #FF943F;
+  --tertiary-color: #FA2080;
+  --dark-color: #1D2734;
+  --light-background: #E7EDF9;
+  --itg-gradient: linear-gradient(90deg, #AD1AC7 0.22%, #FA2080 43.67%, #FF943F 96.47%);
+}
+
+
 /* Global reset */
 
 * {
@@ -5,3 +16,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html {
+  font-size: 62.5%;
+}
+
+/* fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;600;700;900&display=swap');

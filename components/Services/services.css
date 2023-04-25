@@ -1,0 +1,8 @@
+.services-title-container {
+  background-color: var(--secondary-color);
+  text-align: center;
+  font-size: 2.4rem;
+  padding: 4.5rem;
+  color: var(--light-background);
+  font-weight: 400rem;
+}
